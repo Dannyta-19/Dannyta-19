@@ -1,8 +1,6 @@
 # Acerca de mí
 
-![Daniela Berríos](https://img.shields.io/badge/-Daniela%20Berríos-000000?style=for-the-badge)  
-![Front-End Trainee](https://img.shields.io/badge/-Front--End%20Trainee-4CAF50?style=for-the-badge)  
-![UX/UI Designer](https://img.shields.io/badge/-UX%2FUI%20Designer-FFC107?style=for-the-badge)
+![Daniela Berríos](https://img.shields.io/badge/-Daniela%20Berríos-000000?style=for-the-badge) ![Front-End Trainee](https://img.shields.io/badge/-Front--End%20Trainee-4CAF50?style=for-the-badge) ![UX/UI Designer](https://img.shields.io/badge/-UX%2FUI%20Designer-FFC107?style=for-the-badge) ![Diseño gráfico](https://img.shields.io/badge/-Diseño%20gráfico-E91E63?style=for-the-badge) ![Productora gráfica](https://img.shields.io/badge/-Productora%20gráfica-9C27B0?style=for-the-badge)
 
 ¡Hola! 👋 Soy **Daniela Berríos**, diseñadora gráfica, UX/UI Designer y **Front-End Trainee** de la Región de Valparaíso, Chile.  
 
@@ -46,8 +44,6 @@ Estoy comprometida con aprender y aplicar las mejores prácticas de diseño y de
 
 ## 📩 **¿Cómo contactarme?**  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-berrios-ux-ui/)  
-[![Behance](https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/danielaberrios1)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dannyta-19)
+Puedes escribirme a mi correo electrónico o conectarte conmigo a través de mis redes sociales. ¡Estaré encantada de saber de ti! 😊  
 
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-berrios-ux-ui/) [![Behance](https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/danielaberrios1)
