@@ -1,4 +1,4 @@
-# Acerca de mí / DANIELA BERRIOS
+# Acerca de mí
 
 ¡Hola! 👋 Soy **Daniela Berríos**, diseñadora gráfica, UX/UI Designer y **Front-End Trainee** de la Región de Valparaíso, Chile.  
 
@@ -22,7 +22,7 @@ Estoy comprometida con aprender y aplicar las mejores prácticas de diseño y de
 ### Diseño gráfico  
 | ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white) | ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white) | ![Adobe InDesign](https://img.shields.io/badge/-InDesign-EE3D8F?logo=adobeindesign&logoColor=white) | ![Adobe Premiere](https://img.shields.io/badge/-Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=white) | ![Adobe Dreamweaver](https://img.shields.io/badge/-Dreamweaver-4AC561?logo=adobedreamweaver&logoColor=white) |  
 |---|---|---|---|---|  
-| ![Adobe Audition](https://img.shields.io/badge/-Audition-9999FF?logo=adobeaudition&logoColor=white) | ![Cut Cut](https://img.shields.io/badge/-Cut%20Cut-000000?logo=notion&logoColor=white) |   |   |   |  
+| ![Adobe Audition](https://img.shields.io/badge/-Audition-9999FF?logo=adobeaudition&logoColor=white) | ![CapCut](https://img.shields.io/badge/-CapCut-000000?logo=notion&logoColor=white) |   |   |   |  
 
 ---
 
